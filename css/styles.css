@@ -1,0 +1,22 @@
+body{
+    background: url("../img/baloons.jpg")center center fixed;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Arvo', serif;
+    color: #FFFBCC;
+}
+.jumbotron {
+    background-color: transparent;
+}
+.jumbotron h1{
+    letter-spacing: 2.5px;
+}
+.form-horizontal{
+    margin-top: 50px;
+}
+.row{
+    margin-top: 30px;
+}
+.col-sm-2{
+    margin-bottom: 15px;
+}
